@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dilmurat 👋
 
-<!--
-**Dilmurat090/Dilmurat090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at Satbayev University, Almaty 🇰🇿
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, SQL
+- **ML:** scikit-learn, pandas, NumPy, Matplotlib
+- **Tools:** Power BI, Jupyter, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🏠 [Krisha.kz Real Estate Price Prediction](https://github.com/Dilmurat090/krisha-real-estate-analysis)
+- 🔍 Fraud Detection — coming soon
+
+## Experience
+- Product Analyst Intern @ Kcell (2025)
