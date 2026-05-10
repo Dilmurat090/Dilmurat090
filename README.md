@@ -9,7 +9,7 @@ Data Science student at Satbayev University, Almaty 🇰🇿
 
 ## Projects
 - 🏠 [Krisha.kz Real Estate Price Prediction](https://github.com/Dilmurat090/krisha-real-estate-analysis)
-- 🔍 Fraud Detection — coming soon
+- 🔍 [Fraud Detection](https://github.com/Dilmurat090/credit-card-fraud-detection)
 
 ## Experience
 - Product Analyst Intern @ Kcell (2025)
